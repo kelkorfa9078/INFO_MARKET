@@ -1,6 +1,6 @@
 # INFO_MARKET 🛒
 
-A full-stack e-commerce web application built with Django and MySQL.
+A full-stack e-commerce web application built with **Django and MySQL**.
 
 ## 📌 About the Project
 
@@ -22,6 +22,7 @@ The application was developed as a practical project to improve skills in backen
 * Django administration panel
 * MySQL database integration
 * Product image management
+* Automated product import using a Python scraper
 * Responsive web interface
 
 ## 🛠️ Technologies Used
@@ -153,15 +154,45 @@ DB_USER=your_database_user
 DB_PASSWORD=your_database_password
 ```
 
+**Never commit passwords, API keys, secret keys, or other sensitive information to GitHub.**
+
 ## 🗄️ Database
 
-The project uses MySQL as its database management system.
+The project uses **MySQL** as its database management system.
 
 Django migrations are included in the project to create and update the required database tables.
+
+The project uses Django ORM to interact with the database.
+
+## 🕷️ Product Scraper
+
+The project includes a Python scraper located in:
+
+```text
+run_scraper.py
+```
+
+The scraper is used to automate product data collection and import product information into the application database.
 
 ## 📸 Screenshots
 
 Screenshots of the application can be added here to showcase the main pages and features.
+
+### 🏠 Home Page
+
+*Add a screenshot of the home page here.*
+
+### 🛍️ Products
+
+*Add a screenshot of the products page here.*
+
+### 🛒 Shopping Cart
+
+*Add a screenshot of the shopping cart here.*
+
+### 🔐 Authentication
+
+*Add a screenshot of the login/register page here.*
 
 ## 🚀 Future Improvements
 
