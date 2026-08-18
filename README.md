@@ -180,19 +180,19 @@ Screenshots of the application can be added here to showcase the main pages and 
 
 ### 🏠 Home Page
 
-*Add a screenshot of the home page here.*
+![INFO_MARKET Home Page](Screenshots/home.png)
 
-### 🛍️ Products
+### 🛍️ Products Page
 
-*Add a screenshot of the products page here.*
+![INFO_MARKET Products Page](Screenshots/produits.png)
 
-### 🛒 Shopping Cart
+### 🔐 Login Page
 
-*Add a screenshot of the shopping cart here.*
+![INFO_MARKET Login Page](Screenshots/login.png)
 
-### 🔐 Authentication
+### 🛒 Shopping Cart & Checkout
 
-*Add a screenshot of the login/register page here.*
+![INFO_MARKET Shopping Cart](Screenshots/cart.png)
 
 ## 🚀 Future Improvements
 
